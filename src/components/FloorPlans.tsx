@@ -8,7 +8,7 @@ const floorPlans = [
     id: '2bhk',
     title: '2 BHK',
     size: '800 to 900 sq.ft. carpet',
-    price: 'Starting from ₹2 Cr to ₹2.20 Cr (All Inclusive)',
+    price: 'Starting from ₹1.99 Cr to ₹2.26 Cr (All Inclusive)',
     eoiAmount: '₹2 Lakhs',
     image: '/2-bhk-img.jpg'
   },
@@ -16,7 +16,7 @@ const floorPlans = [
     id: '2.5bhk',
     title: '2.5 BHK',
     size: '900 to 1000 sq.ft. carpet',
-    price: 'Starting from ₹2.43 Cr (All Inclusive)',
+    price: 'Starting from ₹2.01 Cr to 2.65 Cr  (All Inclusive)',
     eoiAmount: '₹2 Lakhs',
     image: '/2.5-bhk.png'
   },
@@ -24,7 +24,7 @@ const floorPlans = [
     id: '3bhk',
     title: '3 BHK',
     size: '1100 to 1300 sq.ft. carpet',
-    price: 'Starting from ₹2.80 Cr+',
+    price: 'Starting from ₹2.74 Cr to 3.02 Cr',
     eoiAmount: '₹3 Lakhs',
     image: '/3-bhk.jpg'
   },
@@ -32,7 +32,7 @@ const floorPlans = [
     id: '3.5bhk',
     title: '3.5 BHK',
     size: '1300 to 1400 sq.ft. carpet',
-    price: 'Starting from ₹3.50 Cr+',
+    price: 'Starting from ₹3.43 Cr to 3.51 Cr',
     eoiAmount: '₹3.5 Lakhs',
     image: '/3-bhk.png'
   },
@@ -40,7 +40,7 @@ const floorPlans = [
     id: '4bhk',
     title: '4 BHK',
     size: '1600 to 1800 sq.ft. carpet',
-    price: 'Starting from ₹4.05 Cr+',
+    price: 'Starting from ₹4.16 Cr to 4.50 Cr',
     eoiAmount: '₹4 Lakhs',
     image: '/4-bhk-floor.png'
   }
