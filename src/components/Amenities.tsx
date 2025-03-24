@@ -1,4 +1,4 @@
-// Remove or comment out the Image import if not used
+// Remove the Image import if not used
 // import Image from 'next/image'
 
 // Define a type for the amenity icons mapping

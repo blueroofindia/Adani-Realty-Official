@@ -111,9 +111,10 @@ export default function Location() {
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold text-gray-800">Teen Hath Naka, Thane</h3>
             <p className="text-gray-600">
-              Adani is located at one of Thane's most sought-after locations, offering the perfect balance of 
-              connectivity, convenience, and tranquility. The strategic location ensures easy access to major highways, 
-              railway stations, and upcoming metro lines, making commuting a breeze.
+              // Change the text in line 114 to use &apos;
+              <p>Adani is located at one of Thane&apos;s most sought-after locations, offering the perfect balance of 
+                connectivity, convenience, and tranquility. The strategic location ensures easy access to major highways, 
+                railway stations, and upcoming metro lines, making commuting a breeze.</p>
             </p>
             
             <div className="grid grid-cols-1 gap-5 mt-8">

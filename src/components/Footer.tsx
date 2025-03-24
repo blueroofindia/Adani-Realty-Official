@@ -17,7 +17,7 @@ export default function Footer() {
               />
             </Link>
             <p className="text-gray-400 mb-6">
-              Adani Realty is the real estate arm of the Adani Group, one of India's top business houses with businesses spanning across key industry verticals.
+              Adani Realty is the real estate arm of the Adani Group, one of India&apos;s top business houses with businesses spanning across key industry verticals.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white transition duration-300">
@@ -157,5 +157,4 @@ export default function Footer() {
     </footer>
   );
 }
-
-// Remove everything after this closing brace
+// Remove any content after this closing brace
