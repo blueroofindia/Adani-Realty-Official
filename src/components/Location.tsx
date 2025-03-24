@@ -182,3 +182,6 @@ export default function Location() {
     </section>
   );
 }
+// Remove everything after this line, including:
+// // Replace ' with &apos;
+// <p>Most Iconic Place In Mumbai</p>

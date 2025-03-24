@@ -157,3 +157,5 @@ export default function Footer() {
     </footer>
   );
 }
+
+// Remove everything after this closing brace

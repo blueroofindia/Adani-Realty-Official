@@ -70,3 +70,4 @@ export default function Hero() {
     </section>
   );
 }
+// Remove any content after the closing brace
