@@ -24,10 +24,9 @@ export default function Hero() {
             <br />
             <span>Luxury Residences in Thane</span>
           </h1>
-          <p className="text-lg sm:text-xl md:text-2xl mb-6 md:mb-8">
-            Pre-launch of // Change any apostrophes to &apos;
-            <p>Thane&apos;s most awaited premium residential project</p>
-          </p>
+          <div className="text-lg sm:text-xl md:text-2xl mb-6 md:mb-8">
+            Pre-launch of Thane&apos;s most awaited premium residential project
+          </div>
           <div className="flex flex-wrap gap-4 mb-4 sm:mb-0">
             <Link 
               href="/#floor-plans" 
